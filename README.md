@@ -47,6 +47,7 @@ The chatbot understands only these specific questions:
 
 ### Option 1: Run Online (Recommended)
 Click below to launch the chatbot notebook in a live Binder environment (no setup needed):
+
 https://mybinder.org/v2/gh/tharani-kanuparthi/financial-chatbot-bcg/HEAD
 
 
