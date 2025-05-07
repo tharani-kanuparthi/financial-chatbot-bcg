@@ -48,7 +48,7 @@ The chatbot understands only these specific questions:
 ### Option 1: Run Online (Recommended)
 Click below to launch the chatbot notebook in a live Binder environment (no setup needed):
 
-https://mybinder.org/v2/gh/tharani-kanuparthi/financial-chatbot-bcg/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tharani-kanuparthi/financial-chatbot-bcg/HEAD?filepath=financial_chatbot.ipynb)
 
 
 ### Option 2: Run in Command Line
