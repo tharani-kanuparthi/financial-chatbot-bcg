@@ -45,7 +45,12 @@ The chatbot understands only these specific questions:
 
 ## ▶️ How to Run
 
-### Option 1: Run in Command Line
+### Option 1: Run Online (Recommended)
+Click below to launch the chatbot notebook in a live Binder environment (no setup needed):
+https://mybinder.org/v2/gh/tharani-kanuparthi/financial-chatbot-bcg/HEAD
+
+
+### Option 2: Run in Command Line
 
 1. Make sure Python 3 is installed.
 2. Open terminal or command prompt.
@@ -57,7 +62,7 @@ python financial_chatbot.py
 
 Type a predefined question to interact with the chatbot.
 
-### Option 2: Run in Jupyter Notebook
+### Option 3: Run in Jupyter Notebook
 
 1. Install Jupyter Notebook and Python 3.
 2. Open terminal and run:
