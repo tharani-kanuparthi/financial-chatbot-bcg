@@ -1,0 +1,17 @@
+You: What is the total revenue for Microsoft in 2024?
+Chatbot: The total revenue for Microsoft in 2024 is $245,122,000,000.
+
+You: How has Tesla’s net income changed from 2023 to 2024?
+Chatbot: Tesla’s net income decreased by $7,821,000,000 from 2023 to 2024.
+
+You: What is Apple’s total assets in 2010?
+Chatbot: Apple’s total assets in 2010 were $75,183 million.
+
+You: What is Microsoft’s cash flow from operating activities in 2023?
+Chatbot: Microsoft’s cash flow from operating activities in 2023 was $87,582,000,000.
+
+You: What is Tesla’s total liabilities in 2022?
+Chatbot: Tesla’s total liabilities in 2022 were $36,440,000,000.
+
+You: Tell me about profits.
+Chatbot: Sorry, I can only provide information on predefined queries.
